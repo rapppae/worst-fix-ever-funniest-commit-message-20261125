@@ -6,7 +6,7 @@
 
 [View the bounty on make.fun](https://make.fun/bounty/u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722)
 
-> fix: stop the leak by deleting the bucket, the floor, and production
+> fix: patch the leak by deleting the bucket, the floor, and production
 
 ## Run
 
